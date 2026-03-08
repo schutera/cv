@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(unzip:*)",
+      "Bash(pandoc:*)",
+      "Bash(pdflatex:*)",
+      "Bash(start:*)",
+      "Bash(rm:*)",
+      "WebFetch(domain:www.linkedin.com)"
+    ]
+  }
+}
